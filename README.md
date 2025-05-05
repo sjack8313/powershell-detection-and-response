@@ -22,7 +22,7 @@ These behaviors align with:
 
 ### Detection Logic (SPL)
 
-The following query was built to catch malicious PowerShell activity based on ScriptBlock Logging and Process Creation logs:
+The following query was built to catch malicious PowerShell activity based on ScriptBlock Logging and Process Creation logs.
 
 
 
